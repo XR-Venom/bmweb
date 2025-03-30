@@ -11,7 +11,9 @@ $bodyBg: #0f172a; // Very Dark Blue
 @mixin main-font {
   font-family: 'Roboto', sans-serif;
 }
-
+*{
+  caret-color: transparent;
+}
 
 
 @mixin hero_btn($col1, $col2, $pad1, $pad2, $bRadius) {
