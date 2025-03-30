@@ -5,6 +5,9 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
+*{
+  caret-color: transparent;
+}
 
 .layout_padding {
   padding: 90px 0;
